@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "52e02ca8df2f981b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc490ffc315a0692",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a83be91fd042f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-05-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b430788c2005e896",
+    "type": "split",
+    "children": [
+      {
+        "id": "677605d2bbb4ae96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62bfd0ca1ea0580c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "175f95b70e3bc26f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca5b0b2c656e0904",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7cb2c8d50d126f65",
+    "type": "split",
+    "children": [
+      {
+        "id": "dceea925ed28608a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36ce4d42360232fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-05-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae6233a3a78a3f8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-05-23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "948d8bf2919e3bc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e923930fdddcd7d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-05-23.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5a83be91fd042f5b",
+  "lastOpenFiles": [
+    "2024-05-23.md",
+    "Footprinting/FTP/FTP.md",
+    "Footprinting/IPMI/IPMI.md",
+    "Footprinting/Linux Remote Management Protocols/R-Services.md",
+    "Footprinting/Linux Remote Management Protocols/Rsync.md",
+    "Footprinting/Linux Remote Management Protocols/SSH.md",
+    "Footprinting/Infrastructure Based Enumeration.md",
+    "Footprinting/Windows Remote Management Protocols/WMI.md",
+    "Footprinting/Windows Remote Management Protocols/WinRM.md",
+    "Footprinting/Windows Remote Management Protocols/RDP.md",
+    "Footprinting/Windows Remote Management Protocols",
+    "Footprinting/IPMI/IPMI Exercise.md",
+    "Footprinting/Linux Remote Management Protocols.md",
+    "Footprinting/Linux Remote Management Protocols",
+    "Footprinting/IPMI/ipmi.log.md",
+    "Footprinting/IPMI",
+    "Footprinting/Oracle TNS/Oracle TNS.md",
+    "Footprinting/Oracle TNS/tns.log.md",
+    "Footprinting/Oracle TNS/Oracle TNS Exercise.md",
+    "Files/Pasted image 20240519102246.png",
+    "Footprinting/SMB/SMB.md",
+    "Documentation/Tmux setup.md",
+    "Documentation",
+    "Footprinting/MSSQL/MSSQL.md",
+    "Footprinting/Oracle TNS",
+    "Footprinting/MSSQL/mssql.md",
+    "Footprinting/MSSQL/MSSQL Exercise.md",
+    "Files/Pasted image 20240519081855.png",
+    "Files/Pasted image 20240519080642.png",
+    "Footprinting/MSSQL/Untitled.canvas",
+    "Footprinting/MSSQL",
+    "Footprinting/MySQL/mysql.log.md",
+    "Footprinting/MySQL/MySQL.md",
+    "Footprinting/MySQL/mysql.log",
+    "Footprinting/MySQL/MySQL Exercise.md",
+    "Files/Pasted image 20240518213937.png",
+    "Files/Pasted image 20240518213833.png",
+    "Files/Pasted image 20240518213743.png",
+    "Files/Pasted image 20240518213611.png",
+    "Files/Pasted image 20240518213444.png",
+    "Files/Pasted image 20240518212959.png",
+    "Footprinting/MySQL",
+    "Footprinting/SNMP/SNMP.md",
+    "Footprinting/SNMP/SNMP Exercise.md",
+    "Footprinting/SNMP/snmp.txt",
+    "Footprinting/SNMP/snmp.log",
+    "Files/Pasted image 20240518174715.png"
+  ]
+}
