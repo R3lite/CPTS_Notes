@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "Footprinting/Footprinting Lab - Easy/Footprinting Lab - Easy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "Footprinting/Footprinting Lab - Easy/Footprinting Lab - Easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "Footprinting/Footprinting Lab - Easy/Footprinting Lab - Easy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-23.md"
+                "file": "Footprinting/Footprinting Lab - Easy/Footprinting Lab - Easy.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "5a83be91fd042f5b",
   "lastOpenFiles": [
+    "Backdoor nc.md",
+    "Footprinting/Footprinting Lab - Easy/Footprinting Lab - Easy.md",
+    "Footprinting/Footprinting Lab - Easy",
+    "Getting_Started_Module_Cheat_Sheet.pdf",
     "2024-05-23.md",
     "Footprinting/FTP/FTP.md",
     "Footprinting/IPMI/IPMI.md",
@@ -190,10 +194,6 @@
     "Files/Pasted image 20240518213444.png",
     "Files/Pasted image 20240518212959.png",
     "Footprinting/MySQL",
-    "Footprinting/SNMP/SNMP.md",
-    "Footprinting/SNMP/SNMP Exercise.md",
-    "Footprinting/SNMP/snmp.txt",
-    "Footprinting/SNMP/snmp.log",
     "Files/Pasted image 20240518174715.png"
   ]
 }
